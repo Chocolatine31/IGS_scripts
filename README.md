@@ -1,4 +1,4 @@
-# scripts
+# IGS scripts
  IGS scripts
 
 "Data wrangling" prepares layers for the suitability mapping process, and other data preparation.
